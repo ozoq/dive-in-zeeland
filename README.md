@@ -3,28 +3,26 @@
 	<img src="https://www.pinclipart.com/picdir/big/91-917722_emoji-clipart-wave-wave-emoji-whatsapp-png-download.png" alt="Dratini" width="128" Height="128">
 </p>
 
-<h3 align="center">Dive in Zeeland</h3>
+<h3 align="center">❤️Dive in Zeeland❤️</h3>
 
 <p align="center">
-    <i>Interactive and Educational application created for children.</i>
+    <i>A mobile app to be used in a certain (Dive In Zeeland) location in Zeeland. The app manages 
+a game, where the player scans QR codes he finds around, to eventually get a prize upon 
+collecting all the “bounties”.</i>
 </p>
 <p align="center">
-  Coding will be done with React NATIVE
+  React Native | Expo | Styled Components | Valtio
 </p>
 
 <p align="center">
-   Created by Team 9 of the HZ University of Applied Sciences ICT course
+   by ozoq | by snowballz (Daniils Aleksašins) | and few others
 </p>
 
-<h3>
-Setting up the application
-</h3>
+### Setting up the application
 
-<ul>
-  <li>Clone the repo on your local machine.</li>
-  <li>Download EXPO GO Application to your mobile device (Or set up simulator on local machine, more in EXPO Documentation).</li>
-  <li>Run <b>npm install</b> and then <b>npm start</b> inside terminal.</li>
-  <li>Scan the QR code to view application output on your device.</li>
-  <li>Happy coding 😙 ...</li>
-</ul>
+1. Clone this repo. `git clone https://github.com/ozoq/dive-in-zeeland.git`
+2. Install npm modules. `npm i`
+3. Run. `npm start`
+4. If asked to install Expo CLI when running **npm start**, accept the installation. `Y`
+5. Running **npm start** will display you a QR code. Scan it with a phone (connected to the same network) using the **Expo Go** app.
 
